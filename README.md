@@ -1,16 +1,15 @@
-<h1 align="left">👋 Hello! I'm Noah.</h1>
+<h1 align="left">👋 Hello! I'm Clayton</h1>
 
-My name is **Noah Lim**  
-📍 Based in **Dallas, TX**  
-💻 Writing code to land a **Software Developer** position  
+My name is **Clayton Cooper**  
+📍 Based in **Texas**  
+💻 Writing code to land a **Software Engineering** position
 
 ---
 
 ## 🧑‍💻 About me
-- ✨ Focus areas: **Full-stack & Cloud Development**
-- 🎓 Graduate of **Iowa State University**
-- 🎯 Career goal: **Software Developer / Cloud Engineer**
-- 🌱 Currently improving: **TypeScript, React, and backend architecture**
+- ✨ Focus areas: **Backend & Cloud Development**
+- 🎓 Graduate of **Southern New Hampshire University**
+- 🎯 Career goal: **Land a Software Engineering**
 
 ---
 
@@ -29,21 +28,8 @@ My name is **Noah Lim**
 
 ---
 
-## 🌟 Featured Projects
-Here are a few of my best repos:
-
-- **Project 1 – Title**  
-  Short description (what it does + tech used)  
-  👉 [Repo](#)
-
-- **Project 2 – Title**  
-  Short description  
-  👉 [Repo](#)
-
----
-
 ## 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/claytoncooper018"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:claytoncooper018@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
