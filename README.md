@@ -35,11 +35,3 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
 </p>
-
----
-
-## 📫 Connect with me
-<p align="left">
-  <a href="[https://linkedin.com/in/www.linkedin.com/in/claytoncooper018](https://www.linkedin.com/in/claytoncooper018/)"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:claytoncooper018@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
