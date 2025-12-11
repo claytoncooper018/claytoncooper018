@@ -34,4 +34,5 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=restapi" height="40" />
 </p>
