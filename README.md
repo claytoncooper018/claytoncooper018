@@ -9,7 +9,7 @@
 ## 🧑‍💻 About me
 - ✨ Focus areas: **Backend & Cloud Development**
 - 🎓 Graduate of **Southern New Hampshire University**
-- 🎯 Career goal: **Land a Software Engineering**
+- 🎯 Career goal: **Land a Software Engineering position**
 
 ---
 
