@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hello! I'm Clayton</h1>
 
-My name is **Clayton Cooper**  
+📚 My name is **Clayton Cooper**  
 📍 Based in **Texas**  
 💻 Writing code to land a **Software Engineering** position
 
