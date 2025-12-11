@@ -1,15 +1,15 @@
-<h1 align="left">👋 Hello! I'm Clayton</h1>
+<h1 align="middle">👋 Hello! I'm Clayton</h1>
 
-📚 My name is **Clayton Cooper**  
-📍 Based in **Texas**  
-💻 Writing code to land a **Software Engineering** position
+📚 My name is Clayton Cooper
+📍 Based in Texas 
+💻 Writing code to land a Software Engineering position
 
 ---
 
 ## 🧑‍💻 About me
-- ✨ Focus areas: **Backend & Cloud Development**
-- 🎓 Graduate of: **Southern New Hampshire University**
-- 🎯 Career goal: **Land a Software Engineering** poition
+- ✨ Focus areas: Backend & Cloud Development
+- 🎓 Graduate of: Southern New Hampshire University
+- 🎯 Career goal: Land a Software Engineering poition
 
 ---
 
