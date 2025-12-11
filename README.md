@@ -1,4 +1,4 @@
-<h1 align="middle">👋 Hello! I'm Clayton</h1>
+<h1 align="left">👋 Hello! I'm Clayton</h1>
 
 📚 My name is Clayton Cooper
 📍 Based in Texas 
