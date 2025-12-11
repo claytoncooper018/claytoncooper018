@@ -1,8 +1,10 @@
-<h1 align="left">👋 Hello! I'm Clayton</h1>
+<h1 align="center">👋 Hello! I'm Clayton</h1>
 
-📚 My name is Clayton Cooper
-📍 Based in Texas 
+<p align="left">
+📚 My name is Clayton Cooper<br>
+📍 Based in Texas <br>
 💻 Writing code to land a Software Engineering position
+</p>
 
 ---
 
